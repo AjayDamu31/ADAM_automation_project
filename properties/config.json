@@ -1,0 +1,21 @@
+{
+  "base_url": "http://35.225.41.241",
+  "login": {
+    "email": "a.suman2k10@gmail.com",
+      "password": "Test@123"
+  },
+  "mysql_connection": {
+    "Staging": {
+      "host": "35.239.196.91",
+      "port": 3306,
+      "user": "root",
+      "password": "mbuSRjXZkyFkzWEU"
+    },
+    "Production": {
+      "host": "10.1.16.3",
+      "port": 3306,
+      "user": "prod-portal-ro",
+      "password": "rA8AWvwqHJD5A7zA"
+    }
+  }
+}
